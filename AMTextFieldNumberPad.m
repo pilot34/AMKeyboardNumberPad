@@ -54,7 +54,7 @@
 	
 	[self orientationDidChange:nil];
 	
-	buttonIcon = ButtonIconNone;
+	buttonIcon = ButtonIconKeyboard;
 }
 
 #pragma mark -
